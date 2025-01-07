@@ -4,7 +4,7 @@ Welcome to my corner of the internet where code meets creativity! I'm a passiona
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **Multimail**: An advanced email management platform.
+- 🔭 Currently building **Nupem Global**: An advanced Meta Managed Partner Project.
 - 🛠️ Developing **Longevity - Admin Dashboard**: A health & wellness management system.
 - 🌱 Always learning new technologies like AI integrations and performance optimization.
 - 🎨 Combining **logic** with **creativity** to solve real-world problems.
