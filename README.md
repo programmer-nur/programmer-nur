@@ -1,5 +1,5 @@
 # Hi there! I'm Nur 👋
-Welcome to my corner of the internet where code meets creativity! I'm a passionate **MERN-Stack Developer** with a love for crafting seamless user experiences and robust backend systems.
+Welcome to my corner of the internet where code meets creativity! I'm a passionate **Full-Stack Developer** with a love for crafting seamless user experiences and robust backend systems.
 
 ---
 
