@@ -1,5 +1,5 @@
 # Hi there! I'm Nur 👋
-Welcome to my corner of the internet where code meets creativity! I'm a passionate **Full-Stack Developer** with a love for crafting seamless user experiences and robust backend systems.
+Welcome to my corner of the internet, where code meets creativity! I'm a passionate **Full-Stack Developer** with a love for crafting seamless user experiences and robust backend systems.
 
 ---
 
@@ -101,7 +101,7 @@ Longevity - Admin Dashboard is a comprehensive health and wellness platform desi
 ---
 
 ## 🤝 Connect with Me
-- 🌐 [Portfolio](https://programmer-nur.vercel.app/)
+- 🌐 [Portfolio](https://nur-mohammad.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/programmer-nur)
 - ✉️ [Email Me](mailto:mohammadnur5480@gmail.com)
 
